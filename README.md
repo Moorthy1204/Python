@@ -47,19 +47,10 @@ Data cleaning is a **critical step** in the data science pipeline. Clean data le
 ### 📂 Folder Structure
 
 ```
-├── LifeExpectancy_Cleaning.ipynb
-├── FlightPrice_Cleaning.ipynb
-├── HealthInsurance_Cleaning.ipynb
+├── Life_Expectancy_Cleaning.ipynb
+├── Flight_Price_Cleaning.ipynb
+├── Health_Insurance_Cleaning.ipynb
 ├── Zomato_Cleaning.ipynb
 ├── README.md
 ```
 
----
-
-### 📬 Feedback & Contributions
-
-Feel free to open issues or pull requests if you want to contribute or suggest improvements!
-
----
-
-Would you like me to help create the `.ipynb` templates for each of these projects too?
